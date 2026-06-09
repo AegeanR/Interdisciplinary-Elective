@@ -1,0 +1,13 @@
+Imputation,Model,Accuracy,F1
+mean,Logistic Reg.,0.9474,0.9577
+mean,SVM,0.9649,0.9722
+mean,Random Forest,0.9298,0.9437
+mean,XGBoost,0.9561,0.965
+median,Logistic Reg.,0.9474,0.9577
+median,SVM,0.9561,0.965
+median,Random Forest,0.9211,0.9371
+median,XGBoost,0.9474,0.9577
+most_frequent,Logistic Reg.,0.9386,0.951
+most_frequent,SVM,0.9474,0.9583
+most_frequent,Random Forest,0.9211,0.9371
+most_frequent,XGBoost,0.9386,0.951

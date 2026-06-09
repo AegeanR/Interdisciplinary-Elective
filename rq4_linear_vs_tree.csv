@@ -1,0 +1,5 @@
+Model,Type,Accuracy,F1
+Logistic Reg.,Linear,0.9474,0.9577
+SVM,Linear,0.9649,0.9722
+Random Forest,Tree-Based,0.9298,0.9437
+XGBoost,Tree-Based,0.9561,0.965
