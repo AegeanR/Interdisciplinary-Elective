@@ -1,1 +1,1 @@
-![Poster](breast_cancer_poster_v2.pdf)
+![Poster](breast_cancer_poster_v2.png)
